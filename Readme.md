@@ -1,7 +1,7 @@
 
 Number Guessing Game
 
-Introduction
+Introduction:
 This project is a simple Number Guessing Game built using Python's tkinter library. It allows players to guess a randomly generated number between 1 and 10. The game provides feedback on whether the guess is higher or lower than the target number. Players can track their attempts, and a high score is displayed at the end of each round. Players have the option to play again or exit the game based on their preference.
 
 How to Play
